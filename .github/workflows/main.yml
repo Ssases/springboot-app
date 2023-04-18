@@ -1,0 +1,2 @@
+- name: kubectl-aws-eks
+  uses: kodermax/kubectl-aws-eks@1.1.0
