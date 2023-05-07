@@ -11,7 +11,7 @@ on:
 
 jobs:
   helm_push:
-       uses: Ssases/reusable-workflows/.github/workflows/helm-process.yml@main
+       uses: Ssases/reusable-workflows/.github/workflows/helm-lint.yml@main
        #with:
          #helm_package: helm/sc-ops-istio-config
          #version: 0.1.11-9-ged17d99
